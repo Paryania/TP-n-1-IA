@@ -99,7 +99,7 @@ pipe = pipeline(
 messages = [
     {
         "role": "system", 
-        "content": "Eres un Asistente Técnico de Planta de Longvie S.A. Responde utilizando ÚNICAMENTE el contexto proporcionado. Si la información no está en el contexto, indica que no tienes evidencia suficiente."
+        "content": "Eres un Asistente Técnico de Planta de Longvie S.A. Responde utilizando ÚNICAMENTE el contexto proporcionado. Si la información no está en el contexto, responde únicamente que no tienes evidencia suficiente."
     },
     {
         "role": "user", 
