@@ -1,0 +1,60 @@
+﻿nombre del archivo: IMAN-008-Mantenimiento preventivo de torres de enfriamiento
+
+
+Planta: Longvie Paraná
+Sector: mantenimiento
+Confección: Oficina técnica
+Codigo de instructivo: IMAN-008
+Revisión: 2
+Fecha de revisión: 20/03/25
+Aprobó: Ing. Rufanacht, Marcelo
+
+
+nombre del archivo:IMAN-023-Inspeccion de cables de acero en equipos de elevacion de cargas 
+
+
+Planta: Longvie Paraná
+Sector: mantenimiento
+Confección: Oficina técnica
+Fecha de emisión: 31/03/2023
+Codigo de instructivo: IMAN-023
+Revisión: 0
+Fecha de revisión: 31/03/2023
+Aprobó: Ing. Rufanacht, Marcelo
+
+
+nombre del archivo:IMAN-026-Calibracion de quemadores del horno de enlozado
+
+
+Planta: Longvie Paraná
+Sector: mantenimiento
+Confección: Oficina técnica
+Fecha de emisión: 12/09/2024
+Codigo de instructivo:  IMAN-026
+Revisión: 0
+Fecha de revisión: 31/03/2023
+Aprobó: Ing. Rufanacht, Marcelo
+
+
+nombre del archivo:ISOL-002 V04-Instructivo encendido y apagado robots motoman
+
+
+Planta: Longvie Paraná
+Sector: soldadura
+Confección: Oficina técnica
+Codigo de instructivo: ISOL – 002
+Revisión: 4
+Fecha de revisión: 04/03/2026
+Aprobó: Ing. Rufanacht, Marcelo
+
+
+nombre del archivo:ITER-015 V0-Prueba de estanqueidad con equipo de presion diferencial
+
+
+Planta: Longvie Paraná
+Sector: termotanques
+Confección: Oficina técnica
+Codigo de instructivo: ITER-015
+Revisión: 0
+Fecha de revisión: 18/09/2024
+Aprobó: Ing. Rufanacht, Marcelo
