@@ -1,0 +1,19 @@
+Prueba de Estanqueidad con equipo de presión diferencial
+Condición inicial:
+Tapones del equipo arriba (actuando valvula 5) y Cerradas todas las válvulas (palanca perpendicular al caño).
+Pasos a seguir para la prueba de estanqueidad:
+a. Ubicar Termotanque en línea a cilindros tapones.
+b. Descender Cilindros tapones actuando "valvula 5". Las bridas deben quedar centradas en los tapones.
+c. Abrir "valvula 4".
+d. Abrir “valvula 3”. Esperar el llenado del tanque (el tiempo depende del modelo) hasta llegar a presión de 2.5 kg/cm2.
+e. Cerrar "valvula 4".
+f. Abrir "valvula 1" para igualar presiones de referencia con la de Tanque".
+g. Cerrar" valvula 3" y observar los niveles de agua en la U de manguera:
+* Si los niveles se mantienen "estables", es decir sin movimiento (aunque estén a distinta altura), el resultado es Tanque OK (marcar con tiza OK sobre el casquete).
+* Si los niveles cambian constantemente, abrir “valvula 3” (los niveles se acomodarán) y cerrarla nuevamente, y volver a mirar los niveles en la U. Si luego de tres intentos los niveles siguen variando, el resultado de la prueba es Tanque con Pérdida. En este caso, abrir valvula 3 (se emparejan los niveles) y buscar con agua con detergente en los posibles puntos de pérdida. Si se detecta la pérdida y se puede eliminar(sin despresurizar el tanque), se vuelve a cerrar valvula 3 y controlar niveles en la U.
+Si no se detecta la pérdida, o no se elimina (siguen cambiando los niveles en la U), marcarlo con NO OK sobre el casquete.
+h. Cerrar "valvula 1" y "valvula 3" (para que no se drene el líquido hacia la descarga).
+i. Abrir "valvula 2" (Se libera el aire contenido en el tanque).
+j. Elevar Cilindros tapones con "valvula 5”.
+k. Cerrar "valvula 2"
+l. Retirar tanque: si está OK avanza por la línea, si está NO OK se debe sacar a un lado.

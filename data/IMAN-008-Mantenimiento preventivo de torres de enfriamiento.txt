@@ -1,0 +1,56 @@
+PROCEDIMIENTO TRABAJO PREVENTIVO EN TORRES DE ENFRIAMIENTO
+Para realizar este procedimiento se necesitan los siguientes instrumentos:
+- 1 jarra con medidas (previamente repasada con trapo limpio con alcohol).
+- 1 Conductímetro que mida en μS/cm.
+- Trapos limpios.
+- 1 Cepillo.
+
+1. Limpieza de las rejillas: Levantar todas las rejillas y limpiarlas con trapo y cepillo, removiendo toda la suciedad que esté atrapada (mejora de circulación de aire).
+Limpiar la rejilla alejado del equipo para que el ventilador del enfriador no succione la suciedad despedida de las rejillas y se atasque en la zona de intercambio.
+
+2. Medición de concentración de sales en agua:
+Agua de reposición (agua blanda)
+Con la Jarra, extraer una medida de agua de reposición en el pico de salida de la boya (sólo de reposición, NO de la cuba de la torre).
+Encender e introducir el conductimetro en la muestra de agua.
+Esperar 5 segundos a que el instrumento muestre el resultado de la medición. Registrar el dato en el informe.
+Arrojar la muestra en el tanque de latorre.
+El valor de conductividad debe ser menor a 1200 μS/cm.
+Si la conductividad es mayor, avisar al personal de Pintura, para que analicen el proceso de ablandado de agua (indicaría dureza de 150
+ppm o mayor en el agua del tanque azul).
+Agua de circuito cerrado
+Con la jarra, extraer una medida de agua de la pileta de la torre de enfriamiento.
+Introducir el conductímetro y esperar 5 segundos por el resultado. Registrar el resultado en el informe.
+Devolver la muestra en el tanque de la torre.
+Limpiar el instrumento de medición únicamente con agua blanda (de la reposición).
+El valor de la conductividad debe ser menor a 3000 μS/cm.
+Si es mayor, se debe aumentar el caudal de la purga continua de la pileta, y volver a medir al día siguiente para confirmar que el valor se redujo.
+
+3. Verificar funcionamiento de boya:
+Levantar la palanca de la boya para verificar que la válvula de paso cierre y no deje pasar agua en posición cerrada.
+Bajar la palanca para que la válvula se abra y verificar que efectivamente sale agua.
+Verificar que la boya no esté dañada, y opere desplazándose correctamente en dirección vertical.
+El caudal de reposición de agua debe ser de 8 lt/min o mayor.
+Si se observan daños o malos funcionamientos dar aviso al Supervisor de Mantenimiento para coordinar la intervención de reparación o recambio.
+
+4. Anti algas. Dosificación manual :
+Usando la jarra de medición, verter en tanque de torre correspondiente la medida especificada siguiente:
+- Torre 1 “Fabricación” ZULZER: Agregar 500 centímetros cúbicos.(0.5 Lt)
+- Torre 2 “Inyectoras “ SINAX: Agregar 250 centímetros cúbicos. .(0.25 Lt)
+- Torre 3 “Grossweld” SINAX: Agregar 250 centímetros cúbicos. .(0.25 Lt).
+- Torre 4 “Inyectoras” SINAX: Agregar 250 centímetros cúbicos. .(0.25 Lt)
+
+5. Anti incrustante. Dosificación automática:
+Nivel de anti incrustante en el tanque
+Verificar que el contenedor de líquido anti incrustante (TX MO-200.) tenga nivel suficiente (por encima de la mitad). Si se encuentra por debajo de la línea, recargar.
+Dosificación de anti incrustante:
+Encima del contenedor de anti incrustante está el dosificador eléctrico, encargado de bombear el líquido anti incrustante hacia el tanque de torre. Se debe verificar que bombee en un tiempo regular preseteado (se escuchan los pulsos de bombeo).
+Levantar la manguera para verificar que en cada pulso se inyecta líquido en la cuba.
+
+6. Purga de agua:
+Verificar que en la salida de purga (linea con electroválvula) haya un caudal constante de agua (mientras la torre de enfriamiento está operando debe mantenerse constante la purga).
+Calibración de la purga:
+Si la medición de conductividad arrojó valores de concentración mayores a 3000μS/cm abrir la válvula manual de purga levemente (aumenta la purga constante, y con eso se reduce la concentración de minerales).
+Si la conductividad dio muy cerca del valor medido en el agua de reposición, cerrar levemente la válvula (se puede reducir el caudal de volcado), pero NO cerrarla del todo.
+
+7. Drenaje total del agua y limpieza del tanque:
+Ante presencia de mucha suciedad en el fondo del tanque, se debe realizar una descarga completa de la pileta y la limpieza del tanque (con torre de enfriamiento fuera de servicio).

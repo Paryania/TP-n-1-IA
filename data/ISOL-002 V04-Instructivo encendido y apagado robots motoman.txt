@@ -1,0 +1,74 @@
+Instructivo Encendido y Apagado Proceso de soldadura robot 2026
+Reconocer las siguientes partes y ubicaciones: Tablero de potencia, fuente de soldadura, mesa de soldadura, tablero pupitre, indicador del caudal de gas, brazo y cabezal del root, tablero de potencia y control de mesas de soldadura.
+
+PROCEDIMIENTO ENCENDIDO
+1) En tablero de potencia robots, encender robots, girando perilla en sentido horario (perilla circular negra).
+2) En fuente de soldadura, encender la fuente, girando la perilla en sentido horario “ON” (perilla circular negra).
+3) Controlar que el suministro de Aire este encendido y habilitar o deshabilitar mesas.
+Aclaraciones:
+- Controlar que el testigo “RED” esté encendido, de modo que confirma suministro de aire a alta Presión este tablero.
+- Habilitar Circuito Neumático:
+A- Girar la perilla en sentido horario.
+B-Pulsar el botón de encendido.
+- ACTIVAR/DESACTIVAR Mesas de trabajo: Las llaves selectoras girando en sentido horario son para habilitar el aire decada una de las mesas del Robots, según la mesa a usar.
+4) Una vez encendidas las fuentes y tablero, se procede a la búsqueda de programas:
+Tomar el joytick del tablero de potencia de robots.
+Verificar que estemos ubicado en la pestaña inferior Main Menú o dirigirnos a ella.
+Al iniciar, la ventana “Job List” del joystick, estará primera mente en blanco.
+Para ver la lista de programas pulse los botones: JOB y SELECT JOB.
+Utilizando los botones de desplazamiento y de seleccion del Joystick:
+Seleccionar los programas correspondientes para cada mesa (Mesa2 o Mesa3) y para su lado correspondiente (A o B). De acuerdo a planilla de programas del puesto.
+5) Una vez asignados los programas, seguir los pasos del texto de la derecha: 
+A) Seleccionar el Programa MAESTRO utilizando los botones DESPLAZAMIENTO Y SELECCIONAR del joystick. Mencionados en el punto anterior “3)”.
+B) Girar la perilla en posición PLAY. (JOYSTICK)
+C) Pulsar botón PLAY MODE ENABLE (PRINCIPAL) de modo tal que se encienda la luz amarilla.
+D) Pulsar botón SERVO ON READY. (JOYSTICK)
+E) Pulsar botón verde SATART. (JOYSTICK)
+6) Una vez seleccionados los programas, dirigirse al tablero de pupitre y encender la mesa desde la única selectora, girándola en sentido horario.
+7) Preparar en ambos lados de la mesa el modelo de casquete que se quiere soldar y presionar el botón “Comenzar trabajo”.
+- La posición de la mesa es indistinta al momento de iniciar a trabajar. El programa MAESTRO identifica en qué lado de la mesa se encuentra.
+8) Repetir el paso “6” en el lado que ahora tenemos disponible. Procurando primeramente que haya terminado de soldar el conjunto anterior hasta tantos conjuntos se desea soldar en la jornada.
+
+DETALLE DEL TABLERO DE PUPITRE
+Panel izquierdo:
+- Boton superior izquierdo: Comenzar trabajo. Gira la mesa y comienza a soldar.
+- Boton superior derecho: Pausar trabajo. Detiene la orden de Comenzar.
+- Boton inferior: Parada de emergencia 1. Interrumpe solo la tarea de soldar.
+Panel derecho:
+- Boton superior izquierdo: Parada de emergencia 2. Interrumpe solo el suministro de aire.
+- Luz superior derecha: Testigo de mesa. Se enciende si la mesa esta deshabilitada y apagado si está habilitada desde Tablero de Potencia y Control mesas Soldadura.
+- Perilla Central: Habilitar o Deshabilitar mesa.
+- Botón Inferior: Resetear mesa.
+- Botón Latelal: Girar mesa.
+
+Observaciones en rutina de trabajo
+Tres eventos de rutina, que requieren ir a HOME:
+- Ausencia de alambre: Cuando se termina el alambre en rutina de soldadura, el robot dejara de soldar. (No cuenta con un testigo o sensor). El operador lo percibe y pausa el trabajo con el botón “Pausar trabajo”.
+
+- Ausencia de Gas: Cuando se termina el gas. El robot continúa soldado, pero comenzará a esporear y la bolilla indicadora de valor de caudal estará quieta en la parte inferior, indicando que no hay caudal. El operador lo percibe y presiona el botón “Pausar trabajo”.
+
+Indicador de caudal
+Para realizar, tanto el cambio de alambre como el cambio del tubo degas. Es necesario:
+1) Volver el robot al HOME (punto inicial).
+2) Girar la perilla del joystick a la posición “TEACH” (Por precaución).
+3) Cambiar alambre o tubo de gas.
+4) Prender robot siguiendo los pasos indicados en el instructivo.
+
+- Parada por Emergencia. Ante una colisión, olvido de suministro de pieza, espoleo de soldadura, error de programa, etc pulsar el botón de Parada Emergencia 1 del Tablero de Pupitre.
+Luego de solucionar el fallo/evento para reanudar el trabajo proceder a:
+1) Volver el robot a HOME (punto inicial).
+2) Girar la perilla del joystick a la posición “TEACH” (Por precaución).
+3) Solucionar el problema en cuestión.
+4) Prender robot siguiendo los pasos indicados en el instructivo de Encendido desde el comienzo del documento.
+
+¿Cómo llevar a punto inicial “Home”?
+Tomar el joystick Volver el robot a la posición inicial (HOME) de la siguiente manera:
+1) verificar que el robot no esté en una posición donde pueda colisionar, si es así, retirar de forma manual.
+2) Verificar que estemos ubicados en la pestaña que se llama MAIN MENU. (Parte inferior de la pantalla)
+3) Pulsar el botón ROBOT.
+4) Pulsar el botón WORK HOME POS.
+
+PROCEDIMIENTO DE APAGADO.
+9) En tablero potencia robots (Paso 1 encendido) girar perilla encendido en sentido antiorario para dejarlo en “OFF” (APAGADO).
+10) En fuente de soldadura (Paso 2 encendido) girar perilla de encendido en sentido antiorario para dejarlo en “OFF” (APAGADO).
+11) En Tablero Potencia y Control Mesas soldadura (Paso 3 encendido) Deshabilitar todas las mesas y apagar el suministro de aire.

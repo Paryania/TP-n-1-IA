@@ -1,0 +1,22 @@
+Medición de Gases de Combustión y Regulación de quemadores del Horno de Enlozado
+Diagrama de flujo:
+1- Inicio del proceso: Se debe comenzar con la verificación de las 3 zonas de temperatura en alto caudal.
+2- Control de limpieza: Se realiza la limpieza de la toma de muestra.
+- Si no está limpia (Presencia de hollín): Se debe abrir el registro de aire, esperar 2 minutos y reiniciar la verificación.
+- Si está limpia: Se procede a la medición.
+3- Fase de Medición: El tiempo máximo de medición es de 5 minutos.
+- Si se excede el tiempo: Se debe realizar la regeneración del equipo y el vaciado de la trampa de agua. Para continuar, el equipo debe marcar: CO = 0 PPM, O2 = 21% y Temperatura < 50°C. Luego, abrir el registro de aire por 2 minutos y reiniciar el ciclo.
+- Si se cumple el tiempo: Se procede a cerrar el registro de aire.
+4- Valores objetivo (Resultado OK): El proceso finaliza cuando se estabilizan los siguientes parámetros:
+- CO: Estable y en 0 PPM (+20/-0).
+- O2: 1,2% (+0,3/-0).
+
+Ejecución del proceso:
+1. Tomar la presión de gas entrada. Relevar en planilla.
+2. Verificar que las 3 zonas del Horno estén operando con el gas en alto caudal (led verde encendido).
+3. Hacer cero en el equipo de medición de gases de combustión “PCA3 Bacharach”.
+4. Limpiar con herramienta el tubo de toma de muestra en la chimenea correspondiente al quemador que se va a medir. Si la punta de la herramienta sale con hollín, abrir el registro de aire y volver a limpiar. (repetir la operación hasta que la punta de la herramienta quede sin rastros visibles de hollín).
+5. Introducir la sonda de inspección en el tubo de toma de muestra, y presionar “Run/Hold”. Es necesario tener extrema precaución en los primeros instantes el comportamiento del parámetro CO, no debe subir mas de unos 200 - 300 ppm, si sucede, interrumpir la medición y regenerar el equipo.
+6. Durante la medición ajustar el registro de aire hasta verificar que el valor de Oxigeno este cercano a 1,2 %. Esta operación no debe prolongarse mas allá de los 5min, de otro modo interrumpir el proceso y regenerar el equipo.
+7. Entre medida y medida comprobar siempre que los niveles de O2 = 20,9 %, CO = 0ppm, y la temperatura este por debajo del 50 oC.
+Por otra parte, colocar la trampa de agua, la cantidad de condensado si hubiera; siempre debe estar por debajo del valor indicado. Nuevamente verificar que las 3 zonas del horno de esmalte estén en alto caudal.

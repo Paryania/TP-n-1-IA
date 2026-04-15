@@ -1,0 +1,50 @@
+INSPECCIÓN DE CABLES DE ACERO DE EQUIPOS DEELEVACIÓN DE CARGAS
+Son varios los factores que afectan a la vida de un cable de acero:
+- Variables relacionadas con el diseño del equipo:
+Relación diametro cable / diametro poleas o diametro cable/diametro tambor.
+Ángulos de desvío entre poleas y tambor.
+Diseño de canaletas de tambor y poleas.
+Factor de seguridad adoptado por el fabricante del aparejo.
+
+- Variables relacionadas con el ambiente y la operación:
+Condiciones ambientales (cables a la intemperie).
+Condiciones desfavorables propias de la operación.
+
+- Variables relacionadas al mantenimiento:
+Inspección periódica de los elementos.
+Estado de poleas y tambores.
+Presencia de vibraciones anormales.
+Lubricación del cable.
+
+Las variables del diseño no permanecen inalterables con el tiempo. El uso de los aparejos hace que algunos elementos se vayan deteriorando (poleas o canaletas de tambores). Ante una polea deteriorada lo que debe hacerse es rectificar (para lograr un correcto apoyo y distribución de tensiones) y un tratamiento superficial de la canaleta para lograr unos 22 HRC.
+
+Siempre se debe respetar:
+- Para poleas: el diámetro de la garganta debe ser entre 1.05 a 1.10 veces el diametro del cable de acero (para diametro 11mm tenemos: 11.55 < diametro garganta < 12.10mm)
+- Para tambores: las variables sobre las que podemos actuar como usuarios son dos:
+1. las condiciones de operación
+2. las relacionadas con el mantenimiento. 
+Las primeras (altas aceleraciones, cargas dinamicas, descargas bruscas) generalmente se manifiestan en el cable como golpes, deformaciones localizadas o “jaulas de pajaro”.
+Bajo condiciones normales de operación un cable de acero un cable se descarta porque alcanza 1) el diametro minimo admisible, o 2) cantidad de alambres cortados por fatiga a flexión máxima.
+Es muy importante evaluar la operación normal de cada cable (conversando con los operadores o con el supervisor del sector) y evaluar qué zona del cable es la que mayor cantidad de ciclos de fatiga sufre. Sobre ella se harán las tareas de mantenimiento preventivo.
+Respecto de las variables relacionadas con el mantenimiento sugiero que se realicen cada 6 meses, inspecciones para detectar alguno de los siguientes factores:
+- Variaciones en el diametro real del cable (El criterio de descarte se alcanza cuando el diámetro real promedio medido en cruz es entre el 94 y 92 % del diámetro nominal del cable) La manera correcta de medir el diámetro de un cable es entre crestas de cordones y con un calibre con mordazas.
+- Oxido en los valles del cable (entiéndase valle por el intersticio que existe entre cordón y cordón).
+- Roturas de alambres en crestas o valles (el máximo admisible para cables de 6 cordones es 6 alambres rotos en una longitud de 6 por diametro nominal (inspección que debe realizarse en la zona con mayor cantidad de ciclos de fatiga a flexión por cada ciclo de trabajo del puente).
+• Roturas de alambres próximas a las grampas o puntos muertos.
+• Aplastamiento.
+• Variaciones en el diametro o superficie de la canaleta.
+• Libertad de giro de la polea (Rodamiento).
+• Presencia de bordes filosos (especialmente en tambores).
+• Presencia de vibraciones anormales.
+En cada inspección es recomendable lubricar utilizando lubricante para cables de acero. La manera correcta de hacerlo es en una zona donde el cable esté flexionado aplicando con un pincel apenas empapado en lubricante.
+
+Inspección de Cables de Acero: al realizar la inspección elaborar una tabla que contenga:
+- Año.
+- Semestre (1 o 2).
+- Fecha.
+- Relevado (Si o NO).
+- Aprobado (Si o NO).
+- Mediciones (diametro real promedio, oxido en valles, vaiacion del diametro de la canaleta, alambres cortados)
+- Inspección visual (Punto muerto del tambor, del ojal, aplastamiento, superficie de la canaleta y del tambor, rodamiento de la canaleta y bordes filosos en tambor)
+- Relubricado (Si o NO).
+- Requiere cambio (Si o NO).
